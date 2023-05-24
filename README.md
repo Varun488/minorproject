@@ -1,0 +1,2 @@
+# minorproject
+medicine app andoid
